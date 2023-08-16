@@ -30,7 +30,7 @@ El corazón de este proyecto es el dashboard de Power BI. Aquí encontrarás vis
 
 ## Base de Datos de Criptomonedas
 
-Además, he agregado una base de datos que proporciona breves descripciones y detalles sobre las criptomonedas seleccionadas. Esto te permitirá conocer rápidamente los proyectos detrás de cada moneda y su propósito en el mercado (esta base se pude encontrar en el apartado de datos del repositorio [Leer Descripción de Criptos](Datos/Descripcion_proyecto_ criptomonedas.xlsx).
+Además, he agregado una base de datos que proporciona breves descripciones y detalles sobre las criptomonedas seleccionadas. Esto te permitirá conocer rápidamente los proyectos detrás de cada moneda y su propósito en el mercado (esta base se pude encontrar en el apartado de datos del repositorio [Ver Carpeta de Datos](Datos/Descripcion_proyecto_criptomonedas.xlsx).
 
 ## Conclusiones y Recomendaciones
 
