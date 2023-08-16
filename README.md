@@ -24,9 +24,13 @@ En este repositorio, encontrarás:
 
 El corazón de este proyecto es el dashboard de Power BI. Aquí encontrarás visualizaciones interactivas que te llevarán desde una panorámica general hasta detalles específicos.
 
+- ![Análisis de Datos](images/matriz_correlación.png)
+- ![Análisis de Datos](images/nube_palabras_cap_mercado.png)
+- ![Análisis de Datos](images/cambio_porcentual_top20.png)
+
 ## Base de Datos de Criptomonedas
 
-Además, he agregado una base de datos que proporciona breves descripciones y detalles sobre las criptomonedas seleccionadas. Esto te permitirá conocer rápidamente los proyectos detrás de cada moneda y su propósito en el mercado (esta base se pude encontrar en el apartado de datos del repositorio).
+Además, he agregado una base de datos que proporciona breves descripciones y detalles sobre las criptomonedas seleccionadas. Esto te permitirá conocer rápidamente los proyectos detrás de cada moneda y su propósito en el mercado (esta base se pude encontrar en el apartado de datos del repositorio [Leer Descripción de Criptos](Datos/Descripcion_proyecto_ criptomonedas.xlsx).
 
 ## Conclusiones y Recomendaciones
 
