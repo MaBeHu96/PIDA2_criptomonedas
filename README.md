@@ -1,5 +1,5 @@
 # PIDA2_criptomonedas# Análisis del Mercado de Criptomonedas - Proyecto de Data Analysis
- #Proyecto Presentado por: Mateo Betancourt H.
+ # Proyecto Presentado por: Mateo Betancourt H.
 ## Introducción
 
 ¡Bienvenidos al proyecto de Análisis del Mercado de Criptomonedas! En este repositorio, encontrarás un análisis exhaustivo del emocionante mundo de las criptomonedas. Como Analista de Datos en una empresa de servicios financieros, me embarqué en un viaje para explorar, entender y extraer información valiosa de este mercado en constante evolución.
